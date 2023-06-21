@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Vazir;
+    src: url('/font/vazir.ttf');
+}
+
+@font-face {
+    font-family: Bnazanin;
+    src: url('/font/BNazanin.ttf');
+}
+
+@font-face {
+    font-family: BBBtitr;
+    src: url('/font/BTitrBd.ttf');
+}
+
+* {
+    font-family: Vazir;
+}
+
+body {
+    margin: 0px;
+}
+
+.logo {
+    width: 5%;
+    height: 5%;
+    float: right;
+    padding: 10px;
+}
+
+.headerText a, .headerIcon a {
+    color: white;
+    text-decoration: none;
+}
+
+.headerText a:hover ,.headerIcon a:hover {
+    color: #ff2b2b;
+}
+
+
