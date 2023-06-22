@@ -21,10 +21,10 @@
 
 
 </head>
-<body>
+<body style="background-image: linear-gradient(to bottom, #ffffff, #bbbbbb);">
 
 <header>
-    <div class="col-12 headerIcon" style="background-color: #0e0e0e;">
+    <div class="col-12 headerIcon" style="background-color: #1B1B1EFF;">
         <div style="padding: 10px 0px 0px 10px">
             <a href="https://www.instagram.com/aghashahi.mobin/?hl=en">
                 <img src="/logos/instagram.png" width="30" height="30" alt="instagram">
@@ -43,14 +43,35 @@
             </a>
         </div>
     </div>
-    <div class="col-12 " style="padding: 0px;margin: 0px">
+    <!--<div class="col-12 " style="padding: 0px;margin: 0px;">
         <div style="margin: auto">
             <a href="/">
                 <img class="logo" src="/logos/icon.png">
             </a>
         </div>
+    </div>-->
+    <div class="col-12">
+        <div>
+            <a href="/">
+                <img class="logo" title="فروشگاه لوازم یدکی باقری" alt="فروشگاه لوازم یدکی باقری" src="/logos/icon.png">
+            </a>
+        </div>
+        <div class="middleHeader">
+            <div class="divSearch">
+                <form method="get" action="/resultSearch">
+                    <div
+                        style="padding: 6px;display: inline;border-radius:0px 5px 10px 0px;background-color: #595959FF;">
+                        <input class="submitSearch" type="submit" value='جست و جو'>
+                    </div>
+                    <div class="divInputSearch">
+                        <input name="text" style="background-color: transparent;color: black;" class="inputSearch"
+                               type="text" placeholder="دنبال چی میگردی؟!">
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
-    <div class="col-12 headerText" style="background-color: #0e0e0e;color: white;text-align: right">
+    <div class="col-12 headerText" style=" background: linear-gradient(to bottom, #1B1B1EFF, #36363b);color: white;text-align: right">
         <div style="padding: 20px">
             <div style="text-align: right;float: right;padding-bottom: 20px">
                 <a href="/">

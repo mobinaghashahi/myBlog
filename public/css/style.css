@@ -27,6 +27,39 @@ body {
     float: right;
     padding: 10px;
 }
+.middleHeader {
+    padding-top: 40px;
+    padding-left: 5px;
+}
+.divSearch {
+    float: left;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 2px;
+    text-align: right;
+    direction: rtl;
+}
+.submitSearch{
+    cursor:pointer;
+    background-color: transparent;
+    border: transparent;
+    color: white;
+}
+.inputSearch {
+    border: 2px transparent;
+    height: 25px;
+    width: 200px;
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+}
+.divInputSearch{
+    padding: 5px 5px 5px 0px;
+    border-radius:5px 0px 0px 15px;
+    border: 1px solid #525252;
+    display: inline;
+    text-align: right;direction: rtl;
+}
 
 .headerText a, .headerIcon a {
     color: white;
@@ -36,5 +69,3 @@ body {
 .headerText a:hover ,.headerIcon a:hover {
     color: #ff2b2b;
 }
-
-
