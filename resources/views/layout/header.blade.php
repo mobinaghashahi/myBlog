@@ -16,8 +16,8 @@
     <meta name="author" content="محمد مبین آقاشاهی اردستانی">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/css/style.css" rel="stylesheet">
-    <link href="/css/RWD.css?v=3.8" rel="stylesheet">
+    <link href="/css/style.css?v=1" rel="stylesheet">
+    <link href="/css/RWD.css?v=1" rel="stylesheet">
 
 
 </head>
