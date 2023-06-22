@@ -23,7 +23,10 @@
 </head>
 <header>
     <div class="col-12 headerIcon" style="background-color: #1B1B1EFF;">
-        <div style="padding: 10px 0px 0px 10px">
+        <div style="float: right;padding: 10px 10px 0px 0px;color: white">
+            <a>کاف الف رِ گاف رِ</a>
+        </div>
+        <div style="padding: 10px 0px 0px 10px;float: left">
             <a href="https://www.instagram.com/aghashahi.mobin/?hl=en">
                 <img src="/logos/instagram.png" width="30" height="30" alt="instagram">
             </a>
