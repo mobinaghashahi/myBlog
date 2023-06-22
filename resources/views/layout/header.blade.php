@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head lang="fa">
-
     <title>وبلاگ شخصی مبین آقاشاهی</title>
     <link rel="shortcut icon" href="/logo/logos.ico">
 
@@ -18,8 +17,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="/css/style.css?v=1" rel="stylesheet">
     <link href="/css/RWD.css?v=1" rel="stylesheet">
-
-
 </head>
 <header>
     <div class="col-12 headerIcon" style="background-color: #1B1B1EFF;">
@@ -94,5 +91,4 @@
 </header>
 
 
-<body style="background-image: linear-gradient(to bottom, #ffffff, #bbbbbb);">
-
+<body>
