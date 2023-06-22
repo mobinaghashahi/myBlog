@@ -15,9 +15,9 @@ return new class extends Migration
             $table->id();
             $table->longText('text');
             $table->string('datePublished');
-            $table->string('password');
             $table->string('description');
             $table->string('imageName');
+            $table->string('title');
             $table->integer('viewCount');
 
             $table->unsignedBigInteger('user_id');
