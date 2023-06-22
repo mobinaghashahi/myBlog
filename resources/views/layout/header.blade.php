@@ -21,8 +21,6 @@
 
 
 </head>
-<body style="background-image: linear-gradient(to bottom, #ffffff, #bbbbbb);">
-
 <header>
     <div class="col-12 headerIcon" style="background-color: #1B1B1EFF;">
         <div style="padding: 10px 0px 0px 10px">
@@ -91,4 +89,7 @@
         </div>
     </div>
 </header>
+
+
+<body style="background-image: linear-gradient(to bottom, #ffffff, #bbbbbb);">
 
