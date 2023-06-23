@@ -16,4 +16,7 @@ class Home extends Controller
             ->groupBy('post.id')
             ->get()]);
     }
+    public function read($id){
+        return view('read',['post'=>Post::findOrFail($id)]);
+    }
 }

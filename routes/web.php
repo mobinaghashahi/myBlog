@@ -15,3 +15,4 @@ use App\Http\Controllers\Home;
 */
 
 Route::get('/', [Home::class, 'showHome']);
+Route::get('/read/{id}', [Home::class, 'read']);
