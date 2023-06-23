@@ -19,4 +19,8 @@ class Home extends Controller
     public function read($id){
         return view('read',['post'=>Post::findOrFail($id)]);
     }
+
+    public function addPost(){
+        return view('admin.addPost');
+    }
 }
